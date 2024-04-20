@@ -61,7 +61,8 @@ And remember, "I use Arch, btw" - because life's too short for ordinary distros!
 
 Behold the glory of my Arch Awesome setup in action:
 
-![Awesome Setup](link_to_your_screenshot)
+![Awesome Setup](https://github.com/ibrahimdevop21/AwesomWM/blob/29d98e7cdbe3aec9c206e617e021aa8f6e2d9155/ArcoLinux-2024-04-20-1713575893_screenshot_1920x1080.jpg)
 
 ---
 Feel free to customize this readme to match your setup and preferences!
+
